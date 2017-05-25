@@ -1,100 +1,115 @@
-Johnny Coder
+Mohammad Jaqmaqji
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> [mohjak.com](mohjak.com) \
+>  Software engineer, Web full-stack developer, Scrum Master. \
+>  I am a software addict. I passionate about writing code for the web. \
+>  I enjoy writing in languages such as HTML, JavaScript, Css, PHP, \
+>  SQL. I love to do engineering staff. Agile is my loyal partner.
 
 ----
 
 Education
 ---------
+2015
+:   **Certified Scrum Master**; Scrum Alliance
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+    *Has the ability to guide, coach, and facilitate Agile-developing team using Scrum Framework.*
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+2004-2010
+:   **BSc, Information Technology Engineering, Software Engineering Department**; University of
+    Damascus (Damascus)
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+    *Computer Science*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Web full-stack developer at Graphista:**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Web application developer using Yii2 PHP MVC Framework for the back-end,
+jQuery, jQuery UI for the front-end, and MySQL for database management.
+Apply the concept of agile software development using scrum. In addition to
+Wordpress websites.
 
-* First item
+* Falcoon digital marketing platform a pre-release [link](http://test.falcoon.net)
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Sara Real estate wordpress website [link](http://sara-tr.net)
 
-**That Other Job You Had**
+**Backend Web Application Developer at NBS-US**
 
-Also with a short description.
+Back-end web developer for web application control panels.
+Responsible for developing MVC models, controllers and actions,
+apply design for views, deal with javascripts necessary for views events.
+
+* Orpahn Care Union website [link](http://www.so-cn.org/)
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Frelancing Project
+:   An overview of my freelancing work.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    * Ncom company portfolio website which I am developing it on
+      Rails framwork, I used cucumber for BDD.
+      [heroku](https://ncomwebsite.herokuapp.com/)
 
 Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+:   I publish what I learned lately to [github](http://github.com)
+    below samples of my contributions.
+
+    * [Html portfolio project](https://github.com/mohjak/HTMLPortfolioProject) which I
+      forked originally from codeschool course, and I built my profile page
+      [mohjak.com](http://mohjak.com).
+
+    * [polyfire simple authentication](https://github.com/mohjak/poly-fire-auth)
+      I started this repository after I reviewed firebase, and polymer google technologies
+      Its idea is as simple as authenticate the user using the Google account.
+      [Demo](https://polyfire-2cf3d.firebaseapp.com/).
+
+    * [badges](https://github.com/mohjak/badges) It is a codeschool
+      badges app on PHP.
+
+    * [jQuery badges](https://mohjak.github.io/jQueryBadgesProject/) My
+      codeschool course completion badges using jquery.
+
+    * [node app](https://github.com/mohjak/node-app) A simple voting
+      app using nodejs, docker, postgresql
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **PHP:** This is the language that I develop the application with
+    right now. I used to work on Yii2 framework.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **SQL:** Query databases hosted on MySql, and postgresql.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   **HTML & CSS:** A very good experience in front-end staff.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   **JavaScript:** jQuery
 
-[ref]: https://github.com/githubuser/superlongprojectname
+:   **Ruby:** Which I started to work on with my freelance experience.
+    I am using rails for web application development.
 
-Extra Section, Call it Whatever You Want
+:   **Git:** [git branching model](http://nvie.com/posts/a-successful-git-branching-model/) that I follow in my work
+
+:   Basic knowledge of **JAVA**, **C++**, **Node**, **React**
+
+[ref]: https://github.com/mohjak
+
+Activities and Interests
 ----------------------------------------
 
 * Human Languages:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * Arabic (native speaker)
+     * English (fluent)
+     * Turkish (Intermediate)
 
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+* **Sport:** Walking, Football, Swimming. **Reading:** Technical, History.
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <mohjak@gmail.com> • +90 (534) 890 2231 • 31 years old\
+> Aksemsettin Mah. Korkutata Sk. No.64 D.3 - Fatih/Istanbul 34080, Turkey\
+> [html version of resume](http://mohjak.com/resume.html)
