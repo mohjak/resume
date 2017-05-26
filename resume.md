@@ -3,7 +3,7 @@ Mohammad Jaqmaqji
 
 ----
 
-> [mohjak.com](mohjak.com) \
+> [mohjak.com]i(http://mohjak.com) \
 >  Software engineer, Web full-stack developer, Scrum Master. \
 >  I am a software addict. I passionate about writing code for the web. \
 >  I enjoy writing in languages such as HTML, JavaScript, Css, PHP, \
