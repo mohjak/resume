@@ -7,9 +7,19 @@ Mohammad Jaqmaqji
 >  Software engineer, Web full-stack developer, Scrum Master. \
 >  I am a software addict. I passionate about writing code for the web. \
 >  I enjoy writing in languages such as HTML, JavaScript, Css, PHP, \
->  SQL. I love to do engineering staff. Agile is my loyal partner.
+>  SQL, JAVA. I love to do engineering staff. Agile is my loyal partner.
 
 ----
+Core Qualifications
+-------------------
+
+* Rich domain knowledge & comprehensive understanding of various Software & designing tools.
+
+* Proven technical and analytical skills, with sound understanding and skill of creating new software’s
+& systems, designing, analysis, testing, database development and coding for modules to
+meet customer’s specific needs.
+
+* Complete knowledge of object-oriented programming.
 
 Education
 ---------
@@ -79,23 +89,23 @@ Open Source
       app using nodejs, docker, postgresql
 
 Programming Languages
-:   **PHP:** This is the language that I develop the application with
-    right now. I used to work on Yii2 framework.
+:   **PHP**
 
-:   **SQL:** Query databases hosted on MySql, and postgresql.
+:   **JAVA**
 
-:   **HTML & CSS:** A very good experience in front-end staff.
+:   **SQL**
 
-:   **JavaScript:** jQuery
+:   **HTML & CSS**
 
-:   **Ruby:** Which I started to work on with my freelance experience.
-    I am using rails for web application development.
+:   **JavaScript:**
+
+:   **Ruby**
+
+:   **Docker**
 
 :   **Git:** [git branching model](http://nvie.com/posts/a-successful-git-branching-model/) that I follow in my work
 
-:   Basic knowledge of **JAVA**, **C++**, **Node**, **React**
-
-[ref]: https://github.com/mohjak
+:   Familiar with **Node**, **React**, **C++**  
 
 Activities and Interests
 ----------------------------------------
