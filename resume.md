@@ -10,6 +10,7 @@ Mohammad Jaqmaqji
 >  SQL, JAVA. I love to do engineering staff. Agile is my loyal partner.
 
 ----
+
 Core Qualifications
 -------------------
 
@@ -23,6 +24,7 @@ meet customer’s specific needs.
 
 Education
 ---------
+
 2015
 :   **Certified Scrum Master**; Scrum Alliance
 
@@ -38,6 +40,7 @@ Experience
 ----------
 
 **Web full-stack developer at Graphista:**
+Jun 2016 - Present
 
 Web application developer using Yii2 PHP MVC Framework for the back-end,
 jQuery, jQuery UI for the front-end, and MySQL for database management.
@@ -48,7 +51,13 @@ Wordpress websites.
 
 * Sara Real estate wordpress website [link](http://sara-tr.net)
 
-**Backend Web Application Developer at NBS-US**
+* Smartaqar real estate wordpress website [link](http://smartaqar.com)
+
+**System Analyst, Quality Assurance, Backend Web Application Developer at NBS-US**
+June 2014 - May 2016
+
+Has accomplished more than 3 products with the team as a System Analyst and Quality Assurance. 
+All products was originally developed based on programming and quality standards.
 
 Back-end web developer for web application control panels.
 Responsible for developing MVC models, controllers and actions,
@@ -91,8 +100,6 @@ Open Source
 Programming Languages
 :   **PHP**
 
-:   **JAVA**
-
 :   **SQL**
 
 :   **HTML & CSS**
@@ -102,6 +109,8 @@ Programming Languages
 :   **Ruby**
 
 :   **Docker**
+
+:   **JAVA**
 
 :   **Git:** [git branching model](http://nvie.com/posts/a-successful-git-branching-model/) that I follow in my work
 
@@ -121,5 +130,5 @@ Activities and Interests
 ----
 
 > <mohjak@gmail.com> • +90 (534) 890 2231 • 31 years old\
-> Aksemsettin Mah. Korkutata Sk. No.64 D.3 - Fatih/Istanbul 34080, Turkey\
+> Aksemsettin Mah. Kocasinan Cad. No.49 D.1 - Fatih/Istanbul 34080, Turkey\
 > [html version of resume](http://mohjak.com/resume.html)
