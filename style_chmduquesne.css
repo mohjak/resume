@@ -91,4 +91,13 @@ hr {
 table {
     width: 100%;
 }
+
+.face {
+    padding: 1px;
+    border: 1px solid #397249;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
 </style>
